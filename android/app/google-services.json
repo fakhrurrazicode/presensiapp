@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "857737062609",
+      "project_id": "high-sunlight-355304",
+      "storage_bucket": "high-sunlight-355304.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:857737062609:android:9def2f56b4b274d0ac3df0",
+          "android_client_info": {
+            "package_name": "com.example.app_v2"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "857737062609-s60t23u0grsg89k21o2bt2hhgfq1dm1o.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCSO9syT0LWDgPT2U0dgq08oau8JDgQgLU"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "857737062609-s60t23u0grsg89k21o2bt2hhgfq1dm1o.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
